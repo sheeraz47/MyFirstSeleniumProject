@@ -37,7 +37,6 @@ public class VyTrackTesting {
             System.out.println("Expected result "+expectedTitle);
             System.out.println("Actual result "+ actualTitle);
         }
-
         driver.quit();
 
     }
